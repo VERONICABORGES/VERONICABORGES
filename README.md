@@ -7,7 +7,7 @@ _____________________________________
 #####  🚀 Áreas de afinidade; Desenvolvimento .Net | C# | Spring |JAVA.
 #####  👩‍🔬 Já atuei com Desenvolvimento .NET de Aplicação Web.
 #####  😀 Sou flexivél, Aberta a novos conhecimentos, Comunicativa e de Fácil Aprendizagem.
-#####  😍 Venho de uma transição de carreira, anterior atuava em RH, a área de Tecnologia sempre me atraiu e agora deu Match, estou apaixonada.
+#####  😍 Venho de uma transição de carreira, anterior atuava em RH, a área de Tecnologia sempre me atraiu e agora deu Match, estou apaixonada.❤❤❤
 #####  💯 Minhas Motivações: Aprender continuamente, Expandir meus Conhecimentos, Ser Desafiada, Realizar Transformações,
 #####  Contribuir, Replicar Conhecimentos e Criar Tecnologias de Impacto ,que Facilite a Vida das Pessoas.
 #####  📘 Em paralelo, sigo a jornada de Cursos livres nas Stacks de Tecnologia, nessa caminhada já adquiri alguns Conhecimentos (Hard Skills), 
