@@ -5,12 +5,13 @@ _____________________________________
 ####   Me chamo Verônica
 #####  🎓 Curso -  Engenharia de Software.
 #####  🚀 Áreas de afinidade; Desenvolvimento .Net | C# | Spring |JAVA.
-#####  👩‍🔬 Já atuei com Desenvolvimento .NET de sistemas Web, Sou flexivél, Comunicativa e de Fácil Aprendizagem.
+#####  👩‍🔬 Já atuei com Desenvolvimento .NET de Aplicação Web.
+#####  😀 Sou flexivél, Aberta a novos conhecimentos, Comunicativa e de Fácil Aprendizagem.
 #####  😍 Venho de uma transição de carreira, anterior atuava em RH, a área de Tecnologia sempre me atraiu e agora deu Match, estou apaixonada.
 #####  💯 Minhas Motivações: Aprender continuamente, Expandir meus Conhecimentos, Ser Desafiada, Realizar Transformações,
 #####  Contribuir, Replicar Conhecimentos e Criar Tecnologias de Impacto ,que Facilite a Vida das Pessoas.
-#####  📘 Em paralelo, sigo a jornada de Cursos livres na área de Tecnologia, já adquiri alguns Conhecimentos (Hard Skills), 
-#####     mantenho meu ritmo firme nessa caminhada, o meu objetivo é decolar🚀🚀 profissonalmente, porque o céu é o limite .
+#####  📘 Em paralelo, sigo a jornada de Cursos livres nas Stacks de Tecnologia, nessa caminhada já adquiri alguns Conhecimentos (Hard Skills), 
+#####     Me mantenho firme nessa caminhada, o meu objetivo é decolar🚀🚀 profissonalmente, porque o céu é o limite .
 
 #### About me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvaverborges@gamil.com)](mailto:silvaverborges@gmail.com)
