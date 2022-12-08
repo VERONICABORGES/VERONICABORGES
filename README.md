@@ -4,7 +4,7 @@ _____________________________________
 _____________________________________
 ####   Me chamo Verônica
 #####  🎓 Curso -  Engenharia de Software.
-#####  🚀 Afinidades: Desenvolvimento .Net | C# | Spring |JAVA.
+#####  🚀 Afinidades: Desenvolvimento Web |C#|HTML|CSS|JavaScript|JAVA.
 #####  👩‍🔬 Atualmente trabalho com Desenvolvimento .NET, Aplicações Web.
 #####  😀 Sou flexivél, Aberta a novos conhecimentos, Comunicativa e de Fácil Aprendizagem.
 #####  😍 Sou oriunda da transição de carreira, anterior atuava em RH, a Tecnologia sempre me atraiu, hoje sou apaixonada pela area de TI.❤❤
